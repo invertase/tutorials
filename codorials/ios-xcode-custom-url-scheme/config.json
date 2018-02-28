@@ -1,5 +1,5 @@
 {
-  "title": "Create a custom iOS URL Scheme in Xcode",
+  "title": "Custom iOS URL Scheme in Xcode",
   "description": "This short Codorial will guide you through creating a custom iOS URL Scheme in your Xcode project.",
   "tags": ["react-native", "ios", "xcode", "url scheme", "firebase dynamic links", "react-native-firebase", "objective c"],
   "steps": [
