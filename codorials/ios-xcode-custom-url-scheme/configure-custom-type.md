@@ -6,7 +6,7 @@ After navigating to the URL Types section of your Xcode workspace you can now ad
 
 1. Click the `Add items` plus (`+`) icon at the bottom of the URL Types section: 
 
-![add-item](https://raw.githubusercontent.com/invertase/tutorials/master/codorials/ios-xcode-custom-url-scheme/assets/add-item.png)
+![add-item](assets/add-item.png)
 
 ## Configure the new URL Type
 
@@ -19,6 +19,6 @@ Steps as shown in image below:
  
  `Icon` and `Role` can be left to use the defaults unless you need to change these.
  
- ![configure-item](https://raw.githubusercontent.com/invertase/tutorials/master/codorials/ios-xcode-custom-url-scheme/assets/configure-item.png)
+ ![configure-item](assets/configure-item.png)
  
  
