@@ -25,4 +25,4 @@ Steps as shown in image below:
    2. Select the `Info` tab on the middle pane
    3. Expand the `URL Types` section header
    
-   ![navigate](https://raw.githubusercontent.com/invertase/tutorials/master/codorials/ios-xcode-custom-url-scheme/assets/navigate-to-url-types.png)
+   ![navigate](assets/navigate-to-url-types.png)
