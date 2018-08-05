@@ -13,7 +13,7 @@
 
 A collection of open-source tutorials by us and the open-source community. 
 
-The tutorials are listed below with links to view the tutorial via our Codorial website and a short description of what it covers.
+The tutorials are listed below with links to view the tutorial via our Codorial service and include a short description of what each one covers.
 
 PR's are welcome to add more tutorials or modify existing ones.
 
